@@ -1,0 +1,6 @@
+.env
+conversations.json
+__pycache__/
+.venv/
+venv/
+.DS_Store
